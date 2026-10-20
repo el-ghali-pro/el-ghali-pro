@@ -27,7 +27,7 @@ My project and internship experience includes backend development, API integrati
 
 These are the three projects pinned on my GitHub profile. They showcase independent and academic work, separate from my internship experience.
 
-### 📊 Student Employability Analysis
+### 📊 College Student Employability Analysis
 
 An academic research project exploring factors associated with ENSAK students' perceived preparedness for the job market.
 
@@ -35,7 +35,7 @@ An academic research project exploring factors associated with ENSAK students' p
 - Used R for data preparation, exploratory analysis, visualization, reliability analysis, and statistical tests.
 - **Tools:** R, `readxl`, `ggplot2`, `psych`
 
-🔗 [View repository](https://github.com/el-ghali-pro/Case-Analysis-Study-University-Students)
+🔗 [View repository](https://github.com/el-ghali-pro/Case-Analysis-Study-University-Students-Employability)
 
 ### 💻 Desktop App for Job Ads
 
